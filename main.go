@@ -158,7 +158,7 @@ func main() {
 }
 
 func help() {
-	fmt.Print("Usage: genfrisian.exe [OPTIONS]\n" +
+	fmt.Print("Usage: genfrisian [OPTIONS]\n" +
 		"\n" +
 		"-f, --first <bool>	Whether the program should generate a first name (default: true)\n" +
 		"-s, --second <bool>	Whether the program should generate a second name (default: random)\n" +
