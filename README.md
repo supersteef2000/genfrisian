@@ -12,6 +12,7 @@ To use it, simply do `genfrisian.exe [options]` on Windows or `genfrisian [optio
 -l, --last <bool>	Whether the program should generate a last/surname (default: true)
 -n, --number <number>	How many names should be generated (default: Generates new name when 1 is pressed)
 ```
+Use the --help option to view this at any time (e.g. `genfrisian.exe --help` on Windows)
 
 ### Examples
 
